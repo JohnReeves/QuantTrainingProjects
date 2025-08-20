@@ -6,6 +6,7 @@ A personal training ground for developing quantitative finance skills in
 
 A plan that may be followed capriciously
 
+```
 quant-training-projects/
 │
 ├── README.md                  # Overview of repo, learning goals
@@ -64,6 +65,6 @@ quant-training-projects/
 │   └── 05_risk_dashboard.md
 │
 └── training_schedule.md       # The long-term roadmap
-
+```
 
 
