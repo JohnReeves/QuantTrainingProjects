@@ -1,8 +1,8 @@
 # QuantTrainingProjects
 A personal training ground for developing quantitative finance skills in
-*C++ (pricing models)
-*Python (data + risk)
-*Excel (validation)
+* C++ (pricing models)
+* Python (data + risk)
+* Excel (validation)
 
 A plan that may be followed capriciously
 
